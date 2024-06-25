@@ -1,0 +1,4 @@
+See file:///D:/STEM/Work%20in%20Progress/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///D:/STEM/Work%20in%20Progress/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
